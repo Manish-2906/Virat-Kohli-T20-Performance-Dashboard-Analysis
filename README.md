@@ -12,8 +12,7 @@ The dashboard is designed to offer quick insights for cricket enthusiasts, analy
 ### **🔍 Key Insights & Findings:**  
 ✅ **Top 5 Grounds for Runs** – Identified grounds where Kohli performed exceptionally, like **Wankhede** and **Visakhapatnam**.  
 ✅ **Yearly Trends** – Visualized yearly and quarterly performance with run breakdowns for each year.  
-✅ **Opposition Analysis** – Found maximum runs scored against top opponents like **Shr-Lanks**, **SouthAfrica**, and **NewZ![Screenshot (200)](https://github.com/user-attachments/assets/e49562fa-cf5d-498a-bffa-97bbfc576b73)
-ealand**.  
+✅ **Opposition Analysis** – Found maximum runs scored against top opponents like **Shr-Lanks**, **SouthAfrica**, and **NewZealand**.  
 ✅ **Match Performance Summary** – Displayed crucial stats such as:  
    - **Total Matches Played**: 516  
    - **Total Runs Scored**: 24K  
